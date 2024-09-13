@@ -1,0 +1,46 @@
+server {
+    listen 80;
+    server_name altdemo.com;  # Replace with your domain name
+
+    root /var/www/html/public;  # Replace with the path to your PHP application's root directory
+
+    index index.php index.html;
+
+    location / {
+        try_files $uri $uri/ index.php?$query_string;
+    }
+
+    location ~ \.php$ {
+        fastcgi_pass php82:9000;  # Replace with the name or IP address of the PHP-FPM container and the PHP-FPM port
+        fastcgi_index index.php;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;
+    }
+
+    # Additional Nginx configuration can be added here, such as SSL settings, access rules, etc.
+}
+
+server {
+    listen 443 ssl;
+    server_name altdemo.com;  # Replace with your domain name
+
+    root /var/www/html;  # Replace with the path to your PHP application's root directory
+
+    ssl_certificate /keys/altdemo.crt;
+    ssl_certificate_key /keys/altdemo.key;
+
+    index index.php index.html;
+
+    location / {
+        try_files $uri $uri/ /index.php?$query_string;
+    }
+
+    location ~ \.php$ {
+        fastcgi_pass php82:9000;  # Replace with the name or IP address of the PHP-FPM container and the PHP-FPM port
+        fastcgi_index index.php;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;
+    }
+
+    # Additional Nginx configuration can be added here, such as SSL settings, access rules, etc.
+}

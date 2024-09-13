@@ -1,0 +1,2 @@
+update-alternatives 2024-09-03 18:52:09: run with --quiet --install /usr/bin/pager pager /usr/bin/less 77 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/less.1.gz
+update-alternatives 2024-09-03 18:52:09: link group pager updated to point to /usr/bin/less

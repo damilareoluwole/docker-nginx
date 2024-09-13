@@ -1,0 +1,300 @@
+2024/09/03 19:05:22.008249 (48) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=48 ppid=47 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:05:22.012279 (54) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=54 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:05:22.016566 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=54 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:05:22.016660 (60) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/03 19:05:22.017015 (60) Info: daemon listening on @newrelic
+2024/09/03 19:09:14.399805 (48) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=48 ppid=47 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:09:14.405637 (54) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=54 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:09:14.410097 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=54 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:09:14.410210 (60) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/03 19:09:14.410558 (60) Info: daemon listening on @newrelic
+2024/09/03 19:10:13.144831 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:10:13.150126 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:10:13.155250 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:10:13.155369 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/03 19:10:13.155732 (71) Info: daemon listening on @newrelic
+2024/09/03 19:10:47.042197 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:10:47.047980 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:10:47.052487 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:10:47.052587 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/03 19:10:47.053063 (71) Info: daemon listening on @newrelic
+2024/09/03 19:11:35.098006 (48) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=48 ppid=47 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:11:35.103249 (54) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=54 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:11:35.108274 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=54 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:11:35.108379 (60) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/03 19:11:35.108755 (60) Info: daemon listening on @newrelic
+2024/09/03 19:12:06.731083 (58) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=58 ppid=57 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:12:06.735422 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:12:06.739931 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:12:06.740037 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/03 19:12:06.740424 (70) Info: daemon listening on @newrelic
+2024/09/03 19:13:41.225574 (48) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=48 ppid=47 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:13:41.230176 (54) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=54 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:13:41.235347 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=54 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:13:41.235459 (60) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/03 19:13:41.235813 (60) Info: daemon listening on @newrelic
+2024/09/03 19:14:22.649588 (48) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=48 ppid=47 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:14:22.655111 (54) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=54 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:14:22.659812 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=54 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=4 GOOS=linux GOARCH=amd64]
+2024/09/03 19:14:22.659956 (60) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/03 19:14:22.660329 (60) Info: daemon listening on @newrelic
+2024/09/04 05:13:53.475662 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 05:13:53.485933 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 05:13:53.494314 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 05:13:53.494530 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/04 05:13:53.495187 (71) Info: daemon listening on @newrelic
+2024/09/04 05:20:33.679903 (48) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=48 ppid=47 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 05:20:33.687785 (54) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=54 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 05:20:33.696785 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=54 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 05:20:33.697009 (60) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/04 05:20:33.697880 (60) Info: daemon listening on @newrelic
+2024/09/04 05:22:54.308923 (48) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=48 ppid=47 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 05:22:54.317756 (54) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=54 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 05:22:54.327441 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=54 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 05:22:54.327593 (60) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/04 05:22:54.328249 (60) Info: daemon listening on @newrelic
+2024/09/04 15:41:07.272471 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:41:07.280359 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:41:07.285298 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:41:07.285536 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/04 15:41:07.286077 (72) Info: daemon listening on @newrelic
+2024/09/04 15:41:48.386200 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:41:48.393391 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:41:48.399191 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:41:48.399313 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/04 15:41:48.399753 (71) Info: daemon listening on @newrelic
+2024/09/04 15:43:05.901306 (48) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=48 ppid=47 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:43:05.910762 (54) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=54 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:43:05.917704 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=54 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:43:05.917926 (60) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/04 15:43:05.918626 (60) Info: daemon listening on @newrelic
+2024/09/04 15:45:02.899462 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:45:02.910120 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:45:02.916611 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/04 15:45:02.916785 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/04 15:45:02.917570 (71) Info: daemon listening on @newrelic
+2024/09/05 20:41:08.809764 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/05 20:41:08.815367 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/05 20:41:08.821505 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/05 20:41:08.821687 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/05 20:41:08.822290 (71) Info: daemon listening on @newrelic
+2024/09/06 17:40:08.468069 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/06 17:40:08.478141 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/06 17:40:08.484249 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/06 17:40:08.484433 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/06 17:40:08.485063 (71) Info: daemon listening on @newrelic
+2024/09/06 17:45:39.650931 (48) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=48 ppid=47 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/06 17:45:39.658920 (54) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=54 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/06 17:45:39.668005 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=54 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/06 17:45:39.668167 (60) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/06 17:45:39.668687 (60) Info: daemon listening on @newrelic
+2024/09/09 19:27:30.117137 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/09 19:27:30.123760 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/09 19:27:30.131381 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/09 19:27:30.131724 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/09 19:27:30.132760 (71) Info: daemon listening on @newrelic
+2024/09/11 07:57:58.848217 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/11 07:57:58.855967 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/11 07:57:58.864407 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/11 07:57:58.864552 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 07:57:58.865147 (72) Info: daemon listening on @newrelic
+2024/09/11 12:02:18.451607 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/11 12:02:18.457619 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/11 12:02:18.464635 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=10 GOOS=linux GOARCH=amd64]
+2024/09/11 12:02:18.464857 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 12:02:18.465522 (71) Info: daemon listening on @newrelic
+2024/09/11 17:41:19.952676 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:41:19.956967 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:41:19.960201 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:41:19.960250 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 17:41:19.961327 (70) Info: daemon listening on @newrelic
+2024/09/11 17:46:06.395771 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:46:06.408002 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:46:06.412101 (74) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=74 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:46:06.412181 (74) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 17:46:06.412532 (74) Info: daemon listening on @newrelic
+2024/09/11 17:52:45.355603 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:52:45.367375 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:52:45.371418 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:52:45.371530 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 17:52:45.371905 (72) Info: daemon listening on @newrelic
+2024/09/11 17:55:19.740606 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:55:19.745079 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:55:19.749573 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 17:55:19.749660 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 17:55:19.749975 (70) Info: daemon listening on @newrelic
+2024/09/11 21:22:01.496605 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:22:01.501599 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:22:01.518553 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:22:01.518730 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 21:22:01.528376 (70) Info: daemon listening on @newrelic
+2024/09/11 21:24:42.504189 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=59 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:24:42.516079 (66) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=66 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:24:42.519918 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=66 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:24:42.520093 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 21:24:42.522043 (72) Info: daemon listening on @newrelic
+2024/09/11 21:25:56.916165 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:25:56.920581 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:25:56.929168 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:25:56.929272 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 21:25:56.930322 (70) Info: daemon listening on @newrelic
+2024/09/11 21:27:09.348878 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:27:09.352787 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:27:09.357017 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:27:09.357140 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 21:27:09.357613 (70) Info: daemon listening on @newrelic
+2024/09/11 21:28:47.766652 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:28:47.776592 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:28:47.780745 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:28:47.780915 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 21:28:47.781262 (72) Info: daemon listening on @newrelic
+2024/09/11 21:31:12.750555 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:31:12.757119 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:31:12.766711 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:31:12.766876 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 21:31:12.767249 (71) Info: daemon listening on @newrelic
+2024/09/11 21:39:15.852430 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:39:15.867326 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:39:15.872621 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:39:15.872711 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 21:39:15.873401 (71) Info: daemon listening on @newrelic
+2024/09/11 21:44:15.363695 (58) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=58 ppid=57 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:44:15.368251 (63) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=63 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:44:15.373276 (69) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=69 ppid=63 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:44:15.373450 (69) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 21:44:15.373913 (69) Info: daemon listening on @newrelic
+2024/09/11 21:45:02.709556 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:45:02.712814 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=59 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:45:02.730299 (69) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=69 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 21:45:02.733302 (69) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 21:45:02.734213 (69) Info: daemon listening on @newrelic
+2024/09/11 22:44:22.152208 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 22:44:22.159813 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 22:44:22.166085 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 22:44:22.166261 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 22:44:22.169332 (71) Info: daemon listening on @newrelic
+2024/09/11 23:02:02.982194 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:02:02.986429 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:02:02.991054 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:02:02.991260 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 23:02:02.992358 (70) Info: daemon listening on @newrelic
+2024/09/11 23:04:53.771037 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:04:53.779251 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:04:53.783540 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:04:53.783695 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 23:04:53.783976 (72) Info: daemon listening on @newrelic
+2024/09/11 23:15:11.824426 (58) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=58 ppid=57 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:15:11.834380 (63) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=63 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:15:11.838865 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=63 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:15:11.838967 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 23:15:11.839175 (72) Info: daemon listening on @newrelic
+2024/09/11 23:25:20.394596 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:25:20.405595 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:25:20.410389 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:25:20.410529 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 23:25:20.411236 (72) Info: daemon listening on @newrelic
+2024/09/11 23:30:14.635444 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:30:14.649054 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:30:14.654936 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:30:14.655373 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 23:30:14.655929 (72) Info: daemon listening on @newrelic
+2024/09/11 23:30:55.320158 (58) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=58 ppid=57 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:30:55.322583 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:30:55.330525 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:30:55.330674 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 23:30:55.330943 (70) Info: daemon listening on @newrelic
+2024/09/11 23:32:05.563472 (58) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=58 ppid=57 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:32:05.577305 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:32:05.587484 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:32:05.587658 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 23:32:05.588005 (71) Info: daemon listening on @newrelic
+2024/09/11 23:55:13.114134 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:55:13.118056 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:55:13.121342 (69) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=69 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/11 23:55:13.121513 (69) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/11 23:55:13.122227 (69) Info: daemon listening on @newrelic
+2024/09/12 00:04:56.935235 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:04:56.945890 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:04:56.959656 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:04:56.959726 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 00:04:56.966579 (72) Info: daemon listening on @newrelic
+2024/09/12 00:08:34.393925 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:08:34.395956 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:08:34.424909 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:08:34.425548 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 00:08:34.427285 (71) Info: daemon listening on @newrelic
+2024/09/12 00:08:34.561211 (60) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=60 ppid=59 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:08:34.564109 (66) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=66 ppid=60 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:08:34.570144 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=66 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:08:34.570249 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 00:08:34.570888 (72) Info: daemon listening on @newrelic
+2024/09/12 00:16:36.723042 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:16:36.737745 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:16:36.743153 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:16:36.743408 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 00:16:36.744053 (71) Info: daemon listening on @newrelic
+2024/09/12 00:16:36.765313 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:16:36.780548 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:16:36.784636 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:16:36.784947 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 00:16:36.785292 (70) Info: daemon listening on @newrelic
+2024/09/12 00:17:04.965587 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:17:04.969465 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=59 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:17:04.985445 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:17:04.985571 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 00:17:04.985846 (71) Info: daemon listening on @newrelic
+2024/09/12 00:17:05.159939 (58) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=58 ppid=57 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:17:05.169309 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:17:05.172887 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:17:05.172977 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 00:17:05.173220 (70) Info: daemon listening on @newrelic
+2024/09/12 00:24:03.073891 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:24:03.083070 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:24:03.085799 (72) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=72 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:24:03.085971 (72) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 00:24:03.086231 (72) Info: daemon listening on @newrelic
+2024/09/12 00:24:03.290228 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:24:03.292906 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:24:03.295570 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=2 GOOS=linux GOARCH=amd64]
+2024/09/12 00:24:03.295633 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 00:24:03.295830 (71) Info: daemon listening on @newrelic
+2024/09/12 09:45:46.941646 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 09:45:46.949758 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 09:45:46.955738 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 09:45:46.956347 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 09:45:46.960997 (70) Info: daemon listening on @newrelic
+2024/09/12 09:45:47.613176 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 09:45:47.624780 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 09:45:47.631464 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 09:45:47.633246 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 09:45:47.634730 (71) Info: daemon listening on @newrelic
+2024/09/12 11:02:48.161658 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:02:48.184964 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:02:48.195852 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:02:48.198687 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 11:02:48.203335 (70) Info: daemon listening on @newrelic
+2024/09/12 11:02:49.912286 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:02:49.931778 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:02:49.940261 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:02:49.941316 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 11:02:49.942030 (71) Info: daemon listening on @newrelic
+2024/09/12 11:25:20.574010 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:25:20.607521 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:25:20.620485 (73) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=73 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:25:20.620928 (73) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 11:25:20.622792 (73) Info: daemon listening on @newrelic
+2024/09/12 11:25:22.158093 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:25:22.189929 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:25:22.202230 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:25:22.202643 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 11:25:22.203269 (71) Info: daemon listening on @newrelic
+2024/09/12 11:43:12.175781 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:43:12.214792 (64) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=64 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:43:12.222535 (70) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=70 ppid=64 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:43:12.223148 (70) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 11:43:12.225415 (70) Info: daemon listening on @newrelic
+2024/09/12 11:43:13.881473 (59) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=59 ppid=58 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:43:13.905034 (65) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=65 ppid=1 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:43:13.935740 (71) Info: New Relic daemon version 10.11.0.3-f5f0661c0550 [listen="@newrelic" startup=agent pid=71 ppid=65 uid=0 euid=0 gid=0 egid=0 runtime="go1.20.2" GOMAXPROCS=8 GOOS=linux GOARCH=amd64]
+2024/09/12 11:43:13.943517 (71) Info: collector configuration is &{CAFile: CAPath: Proxy:}
+2024/09/12 11:43:13.963404 (71) Info: daemon listening on @newrelic
