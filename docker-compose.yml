@@ -9,7 +9,7 @@ services:
 #    - redis
     image: laravel/build
     volumes:
-      - C:\Projects\PARKWAY\YurWallet.API:/var/www/html
+      - ${PHP_HOME}:/var/www/html
       - ./configs:/cfgs
       - ./configs:/configs
       - ./logs:/var/log
@@ -23,7 +23,7 @@ services:
   php_queue:
     image: laravel/build
     volumes:
-      - C:\Projects\PARKWAY\YurWallet.API:/var/www/html
+      - ${PHP_HOME}:/var/www/html
       - ./configs:/cfgs
       - ./configs:/configs
       - ./logs:/var/log
@@ -43,7 +43,7 @@ services:
     volumes:
       - ./nginx/conf.d/default.d:/etc/nginx/conf.d/default.conf
       - ./nginx/keys:/keys
-      - C:\Projects\PARKWAY\YurWallet.API:/var/www/html
+      - ${PHP_HOME}:/var/www/html
     ports:
       - 9001:80
     networks:
