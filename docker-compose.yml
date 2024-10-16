@@ -54,4 +54,5 @@ services:
 
 networks:
   my_app_network:
+    name: ${COMPOSE_PROJECT_NAME}_network
     driver: bridge
