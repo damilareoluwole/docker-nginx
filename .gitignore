@@ -5,3 +5,4 @@ logs/newrelic
 logs/cron.log
 logs/dpkg.log
 configs/supervisord.conf
+logs/newrelic/new-relic-daemon.log
