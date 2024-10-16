@@ -15,7 +15,7 @@ services:
       - ./logs:/var/log
     env_file: .env
     hostname: php82
-    container_name: php82
+    container_name: ${COMPOSE_PROJECT_NAME}_php82
     restart: always
     networks:
       - my_app_network
@@ -31,21 +31,21 @@ services:
       - php82
     env_file: .env
     command: /usr/bin/supervisord -c /etc/supervisor/supervisord.conf
-    container_name: php_queue
+    container_name: ${COMPOSE_PROJECT_NAME}_php_queue
     restart: always
     networks:
       - my_app_network
 
   nginx:
     image: nginx:latest
-    container_name: my_nginx
+    container_name: ${COMPOSE_PROJECT_NAME}_my_nginx
     restart: always
     volumes:
       - ./nginx/conf.d/default.d:/etc/nginx/conf.d/default.conf
       - ./nginx/keys:/keys
       - ${PHP_HOME}:/var/www/html
     ports:
-      - 9001:80
+      - ${API_PORT}:80
     networks:
       - my_app_network
 
