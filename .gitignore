@@ -1,8 +1,6 @@
 .env
 elastic_search.txt
 logs/apt
-logs/newrelic
 logs/cron.log
 logs/dpkg.log
 configs/supervisord.conf
-logs/newrelic/newrelic-daemon.log
