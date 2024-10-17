@@ -1,0 +1,20 @@
+[supervisord]
+nodaemon=true
+
+[program:laravel-worker]
+process_name=%(program_name)s_%(process_num)02d
+command=php /var/www/html/artisan queue:work
+autostart=true
+autorestart=true
+numprocs=1
+redirect_stderr=true
+stdout_logfile=/var/www/html/storage/logs/worker.log
+
+[program:laravel-worker-otp]
+process_name=%(program_name)s_%(process_num)02d
+command=php /var/www/html/artisan queue:work --queue=otp
+autostart=true
+autorestart=true
+numprocs=1
+redirect_stderr=true
+stdout_logfile=/var/www/html/storage/logs/worker-otp.log
